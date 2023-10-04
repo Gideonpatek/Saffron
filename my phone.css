@@ -1,0 +1,127 @@
+body{
+    background-image: url('../Path/Image/Dubai Frame.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 1583px;
+    margin: 0px;
+}
+header{
+    color: white;
+    background-color: darkred;
+    opacity: 0.6;
+}
+label{
+    word-spacing: -10px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
+.saffron{
+    color: gold;
+}
+nav{
+    float: right;
+    margin-top: 10px;
+}
+nav a{
+    padding: 20px;
+    color: white;
+    text-decoration-line: none;
+
+}
+nav a:hover{
+    color: gold;
+}
+#divano{
+    text-align: center;
+    margin-top: 200px;
+    color:white
+}
+h1{
+    font-family: arial;
+    font-size: 100px;
+}
+p{
+    margin-top: -40px;
+}
+#button1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+}
+#button1:hover{
+    color: gold;
+    border-color: gold;
+}
+footer{
+    margin-top: 428px;
+    height: 400px;
+    background-color: darkred;
+}
+#diva{
+    text-align: center;
+}
+input{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 150px;
+    padding-left: 20px;
+    margin-top: 50px;
+    background-color: transparent;
+    border: 2px solid white;
+    border-right: none;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    color: white;
+}
+#button2{
+    margin-top: 50px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 75px;
+    padding-right: 75px;
+    border-radius: 20px;
+    border: none;
+    color: darkred;
+}
+#div1{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-top: 50px;
+}
+#div1 a{
+    color: white;
+    text-decoration-line: none;
+    margin-bottom: 10px;
+}
+#div2{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-left: 700px;
+    margin-top: -145px;
+}
+#div2 a{
+    color: white;
+    text-decoration-line: none;
+    margin-bottom: 10px;
+}
+#div3{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    float: right;
+    margin-top: -130px;
+}
+#div3 a{
+    color: white;
+    text-decoration-line: none;
+    margin-bottom: 10px;
+}
